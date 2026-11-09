@@ -1,0 +1,6 @@
+# Optional for direct .apkg deck export (recommended).
+genanki==0.13.1
+# Optional for cropping PDF pages and rendering PowerPoint slide PDFs.
+PyMuPDF>=1.23
+# Optional for converting WEBP/TIFF/BMP images.
+Pillow>=10
